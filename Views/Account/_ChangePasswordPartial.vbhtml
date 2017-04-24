@@ -7,7 +7,7 @@
 
     @Html.AntiForgeryToken()
 
-    'vinay
+    'vinaym
     
     @<text>
     <h4>Change Password Form</h4>
